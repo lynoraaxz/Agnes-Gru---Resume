@@ -1,0 +1,29 @@
+.navbar-nav li:hover {
+    background-color: rgba(0,0,0,0.2);
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+#services .grid:hover {
+    background-color: rgb(255, 192, 203,0.4);
+    transition: 0.5s;
+    border-bottom: 2px outset rgb(255, 0, 0) !important;
+    cursor: context-menu;
+}
+
+.portofolio:hover {
+    filter: brightness(0.7);
+    transition: 0.5s;
+}
+
+.progress-bar:hover {
+    transition: 0.5s;
+    border: 1.5px solid black;
+}
+
+.carousel-inner {
+    height: 250px; 
+}
+
+
+
